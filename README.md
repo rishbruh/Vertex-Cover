@@ -1,4 +1,4 @@
-#Vertex Cover Problem
+# Vertex Cover Problem
 
 This repo contains files related to Vertex cover problem covered in the graduate course ECE650 @ UWaterloo
 
